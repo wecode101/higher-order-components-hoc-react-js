@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://wecode101.com/audio_recoding_and_playback_in_react_js" target="_blank">WeCode101 higher order components (HOC) in React JS </a></h1>
+<h1 align="center"><a href="https://wecode101.com/how-to-create-dynamic-pages-using-higher-order-components-hoc-in-react-js" target="_blank">WeCode101 higher order components (HOC) in React JS </a></h1>
 
 This demo shows you how to create an audio recording and play back feature
 
